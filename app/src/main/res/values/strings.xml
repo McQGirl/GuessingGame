@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+    <string name="start">Play!</string>
+    <string name="guess">Guess the Airplane!</string>
+    <string name="a10">Fairchild Republic A-10 Thunderbolt II (Warthog)</string>
+    <string name="b2">Northrop B-2 Spirit (Stealth Bomber)</string>
+    <string name="b747">Boeing 747</string>
+    <string name="b52">Boeing B-52 Stratofortress</string>
+    <string name="c172">Cessna 172 Skyhawk</string>
+    <string name="dhc2">De Havilland Beaver</string>
+    <string name="da40">Diamond DA-40</string>
+    <string name="c130">Lockheed C-130 Hercules</string>
+    <string name="p51">North American P-51 Mustang</string>
+    <string name="pcub">Piper Cub</string>
+    <string name="correct">Correct!</string>
+    <string name="incorrect">Incorrect!</string>
+    <string name="at502">Air Tractor AT-502</string>
+    <string name="bonanza">Beechcraft Bonanza</string>
+    <string name="ccx">Cessna Citation X</string>
+    <string name="sr22">Cirrus SR22</string>
+    <string name="e175">Embraer ERJ-175</string>
+    <string name="f22">Lockheed Martin F-22 Raptor</string>
+    <string name="m20">Mooney M20</string>
+    <string name="pa44">Piper PA-44 Seminole</string>
+    <string name="t6">North American T-6 Texan</string>
+    <string name="f4u">Vought F4U Corsair</string>
+    <string name="sound">Sound</string>
+    <string name="sound_desc">Sound On or Off</string>
+    <string name="question">Question %1$d of %2$d</string>
+    <string name="results">%1$d guesses, %2$.02f%% correct</string>
+    <string name="reset_quiz">Reset Quiz</string>
+</resources>

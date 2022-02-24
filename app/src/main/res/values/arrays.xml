@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <item-array name="on_off">
+        <item>On</item>
+        <item>Off</item>
+    </item-array>
+
+    <item-array name="airplaneList">
+        <item>Fairchild Republic A-10 Thunderbolt II (Warthog)</item>
+        <item>Air Tractor AT-502</item>
+        <item>Northrop B-2 Spirit (Stealth Bomber)</item>
+        <item>Boeing B-52 Stratofortress</item>
+        <item>Boeing 747</item>
+        <item>Beechcraft Bonanza</item>
+        <item>Lockheed C-130 Hercules</item>
+        <item>Cessna 172 Skyhawk</item>
+        <item>Cessna Citation X</item>
+        <item>Diamond DA-40</item>
+        <item>De Havilland Beaver</item>
+        <item>Embraer ERJ-175</item>
+        <item>Vought F4U Corsair</item>
+        <item>Lockheed Martin F-22 Raptor</item>
+        <item>Mooney M20</item>
+        <item>North American P-51 Mustang</item>
+        <item>Piper PA-44 Seminole</item>
+        <item>Piper Cub</item>
+        <item>Cirrus SR22</item>
+        <item>North American T-6 Texan</item>
+    </item-array>
+
+    <item-array name="airplaneShortList">
+        <item>a10</item>
+        <item>at502</item>
+        <item>b2</item>
+        <item>b52</item>
+        <item>b747</item>
+        <item>bonanza</item>
+        <item>c130</item>
+        <item>c172</item>
+        <item>ccx</item>
+        <item>da40</item>
+        <item>dhc2</item>
+        <item>e175</item>
+        <item>f4u</item>
+        <item>f22</item>
+        <item>m20</item>
+        <item>p51</item>
+        <item>pa44</item>
+        <item>pcub</item>
+        <item>sr22</item>
+        <item>t6</item>
+
+
+    </item-array>
+
+
+</resources>
